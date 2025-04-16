@@ -1,3 +1,11 @@
+/*
+ * Autor: Jordi Gelabert
+ * Fecha: 16 Abril 2025
+ * Descripción: Clase DAO que permite obtener información de los clientes desde la base de datos.
+ * Tasca bloc 8 programació
+ */
+
+
 package controlador;
 
 import modelo.Customer;

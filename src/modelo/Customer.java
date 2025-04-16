@@ -1,3 +1,11 @@
+/*
+ * Autor: Jordi Gelabert
+ * Fecha: 16 Abril 2025
+ * Descripción: Clase modelo que representa un cliente del banco.
+ * Tasca bloc 8 programació
+ */
+
+
 package modelo;
 
 public class Customer   {

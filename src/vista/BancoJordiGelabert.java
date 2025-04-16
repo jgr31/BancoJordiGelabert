@@ -1,3 +1,11 @@
+/*
+ * Autor: Jordi Gelabert
+ * Fecha: 16 Abril 2025
+ * Descripción: Clase principal que contiene el menú de opciones del sistema bancario.
+ * Tasca bloc 8 programació
+ */
+
+
 package vista;
 
 import controlador.CustomerDAO;

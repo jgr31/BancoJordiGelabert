@@ -1,3 +1,11 @@
+/*
+ * Autor: Jordi Gelabert
+ * Fecha: 16 Abril 2025
+ * Descripción: Clase que gestiona la conexión a la base de datos MariaDB.
+ * Tasca bloc 8 programació
+ */
+
+
 package controlador;
 
 import java.sql.Connection;

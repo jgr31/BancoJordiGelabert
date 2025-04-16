@@ -1,3 +1,11 @@
+/*
+ * Autor: Jordi Gelabert
+ * Fecha: 16 Abril 2025
+ * Descripción: Clase DAO que gestiona el acceso a los datos de las cuentas bancarias.
+ * Tasca bloc 8 programació
+ */
+
+
 package controlador;
 
 import modelo.Account;

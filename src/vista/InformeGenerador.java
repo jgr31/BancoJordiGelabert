@@ -1,3 +1,11 @@
+/*
+ * Autor: Jordi Gelabert
+ * Fecha: 16 Abril 2025
+ * Descripción: Clase encargada de generar informes en formato .txt para un cliente específico.
+ * Tasca bloc 8 programació
+ */
+
+
 package vista;
 
 import controlador.CustomerDAO;
