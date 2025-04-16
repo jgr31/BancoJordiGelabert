@@ -1,0 +1,6 @@
+ID Cliente: 3
+Ciudad: Quincy
+Cuenta: 7, Saldo: 1057.75
+Cuenta: 8, Saldo: 2212.5
+Saldo Total: 3270.25
+Generado por: Jordi Gelabert - Wed Apr 16 20:33:20 CEST 2025
